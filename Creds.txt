@@ -1,2 +1,0 @@
-usrname = sai01
-password= 443r2
